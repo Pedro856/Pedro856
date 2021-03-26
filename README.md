@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pedro Monteiro
+- 👀 I’m interested in python and AI
+- 🌱 I’m currently learning how to program in pyhton
+- 📫 You can contact me via email (pedro.mont2003@gmail.com)
