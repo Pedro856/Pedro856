@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Pedro Monteiro
-- 👀 I’m interested in python and AI
-- 🌱 I’m currently learning technologies like: Pyhton, JavaScript, HTML5, CSS3, Git, Linux;
-- 🌱 Also looking for learning MYSQL.
+- 👀 I’m interested in data engineering
+- 🌱 I currently work with technologies like: Pyhton, SQL;
 - 📫 You can contact me via email (pedro.mont2003@gmail.com)
